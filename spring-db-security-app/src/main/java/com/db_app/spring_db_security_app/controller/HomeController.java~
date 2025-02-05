@@ -1,0 +1,4 @@
+package com.db_app.spring_db_security_app.controller;
+
+public class HomeController {
+}
